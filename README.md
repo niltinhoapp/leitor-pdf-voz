@@ -1,5 +1,7 @@
 # PDF Voz Pro - Leitor de PDF Inteligente com Voz (PWA Nativo Android)
 
+🌐 **Acesse online:** [https://niltinhoapp.github.io/leitor-pdf-voz/](https://niltinhoapp.github.io/leitor-pdf-voz/)
+
 Aplicativo PWA (Progressive Web App) desenvolvido especificamente para celulares **Android** com interface nativa, motor de leitura por voz (Text-to-Speech), detecção automática do modelo de PDF e suporte a documentos escaneados via OCR.
 
 ---
